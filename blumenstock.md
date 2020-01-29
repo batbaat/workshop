@@ -4,7 +4,7 @@
 
 The promises that Blumenstock mention in this article are that data collected through various means, such as Facebook and international call usage, can be interpreted and used to create conclusions because of how much of a digital signature each user leaves behind. It can also be used to help larger groups of people as a whole, and aid with such tasks as humanitarian aid. 
 
-The downsides mentioned in this article are a lack of validity, as data that proves helpful in one country may not be useful in another, along with people realizing that they are being monitored, which incentivizes them to “game” the system and act in ways to benefit them, which exposes the fact of the lack of regulation. Overall, the downsides of humble data are split between the data itself and through the uncertainty and selfishness of people, such as greed and profit.
+The downsides mentioned in this article are a lack of validity, as data that proves helpful in one country may not be useful in another, along with people realizing that they are being monitored, which incentivizes them to “game” the system and act in ways to benefit them, which exposes the fact of the lack of regulation. Overall, the downsides of a lack of humble data are split between the data itself and through the uncertainty and selfishness of people, such as greed and profit.
 
 Blumenstock mentions in this article that the best ways to refining the algorithms are to build off of and compliment older sources of data, not simply replace them. He also mentions customizing algorithms to each specific region, as methods that may work in first world countries may replicate the same accuracy as poorer countries. 
 
