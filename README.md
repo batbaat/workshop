@@ -6,4 +6,4 @@
 
 ## Responses to Readings
 
-1. [Response to Blumenstock](https://github.com/workshop/blumenstock) (Jan 28)
+1. [Response to Blumenstock](https://batbaat.github.io/workshop/blumenstock) (Jan 28)
