@@ -1,0 +1,27 @@
+# Selim Jahan introduces the idea that for far too long the paradigm of economic development has dominated the idea of human development. Jahan states that while income is critical it is not an end, and that human development is about expanding the richness of life, not the richness of the economy within which human beings live. What are some of the targeted issues that Jahan examples as requiring focus throughout the world? Elaborate further on Jahan's definition of human development. What are the different measures incorporated into the Human Development Index that serve to capture the breadth and focus of each countries' average achievement?
+
+# Hans Rosling states that "we underestimate the tremendous social change that often precedes economic change" and proceeds to provide several examples. What were some of the examples Rosling presented where health appeared to be a precursor to wealth? What was Rosling's warning regarding the dangers of using averages when describing development?
+
+Jahan defines human development as the enlarging of people in every aspect of living.  Human development is a more holistic approach to bettering the lives of people, as it is the development of the people, by the people, for the people, with the individuals at the center of the equation. Jahan, along with the HDI, use life expectancy, income, and education in countries to measure human development. These variables are measured through gross national income, life expectancy at birth, and mean years of schooling. 
+
+In his Tedtalk, Hans Rosling discusses the two conclusions that he has created from models of development of countries. The first one that he talks about is that a strong healthcare leads to economic success. He comes up with this conclusion by basing it off of China, who previous to their booming economic success took time to improve their healthcare, and their economic growth continues to today, along with South Korea, another example he brings up. This expands on what Jahan was talking about, as Rosling shows that human development leads to economic success. Rosling also states that we should not use averages to describe development, as each country should be treated for their specific problems. An example of this is South-East Asia, as a majority of these countries are seen as third-world countries, but they all differ drastically in their make up and problems. 
+
+
+
+
+
+## Notes
+
+What is human development:
+to enlarge people in every aspect of living
+
+capabilities of humans must be enhanced
+
+and the oppurtunities to use capabilities have to be improved
+
+People have to be the center of policies of human development - people centered development
+
+human development is the development of the people, for the people, so the benefits reach them, by the people
+
+1.) income is a critical ingredient to increase human develo;ment
+2.) hu. dev. is more holistic than others as it treats people as active agents in development
